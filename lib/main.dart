@@ -8,10 +8,6 @@ class Student {
 }
 
 void main() {
-  Image image = Image(
-    image: NetworkImage('https://nashuproar.org/wp-content/uploads/2017/09/what-is-a-meme.jpg'),
-  );
-
 
   runApp(
     MaterialApp(
